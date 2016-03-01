@@ -12,6 +12,7 @@ Available Functions
 - domain - query for the given domain
 
 - av - query for antivirus data
+
 ---
 
 Example
