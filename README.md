@@ -13,6 +13,8 @@ Available Functions
 
 - av - query for antivirus data
 
+- file - query for md5 hash
+
 ---
 
 Example
@@ -25,4 +27,6 @@ threatcmd domain google.com
 threatcmd email fake@mail.com
 
 threatcmd av plugx
+
+threatcmd file 45b7fb10a4f9aebe85f2c537b33cc27c
 ```
