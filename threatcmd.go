@@ -8,7 +8,7 @@ import (
 
 var (
     //target string
-    report = kingpin.Arg("report", "What to report on").Required().String()
+    report = kingpin.Arg("report", "What to report on [av, domain email, file, ip]").Required().String()
     target = kingpin.Arg("target", "What to report on").Required().String()
 
 )
