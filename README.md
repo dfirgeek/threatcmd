@@ -1,6 +1,8 @@
 #ThreatCmd
 ---
 
+[![codebeat badge](https://codebeat.co/badges/022d0311-1c2a-4594-ab59-091d052c61b9)](https://codebeat.co/projects/github-com-jheise-threatcmd)
+
 CLI for ThreatCrowd.org
 
 Available Functions
